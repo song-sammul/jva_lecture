@@ -18,5 +18,9 @@ public class Radio {
  	public int turnOn() {
  		return 1;
  	}
+	turnOnResult = radio.turnOn();
+			
+			
+		if(turnOnResult == 1) 
  	
 }
